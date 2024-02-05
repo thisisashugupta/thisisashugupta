@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🚀 Full Stack Developer | Next.js & Tailwind CSS Enthusiast
+
+Passionate about crafting seamless web experiences with Next.js and styling magic using Tailwind CSS. From pixel-perfect frontends to scalable backends, I turn ideas into reality. Let's build something awesome together! 🌐💻✨
+
 <!--
 **thisisashugupta/thisisashugupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
