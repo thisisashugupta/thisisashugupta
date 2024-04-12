@@ -18,3 +18,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<span align="center">
+<h3>
+  Projects Navigator
+</h3>
+<table>
+  <tr>
+    <th>
+      <a href="https://github.com/thisisashugupta/souldity">
+        <b>Souldity<b/>
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/thisisashugupta/rps-ls">
+        <b>Rock Paper Scissor<b/>
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/thisisashugupta/toll-bc">
+        <b>Onchain Toll Payment DApp<b/>
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/thisisashugupta/chalchitra">
+        <b>Chalchitra<b/>
+      </a>
+    </th>
+  </tr>
+</table>
+</span>
