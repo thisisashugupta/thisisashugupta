@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 🚀 Full Stack Developer
-- Next.js & Tailwind CSS Enthusiast
-- Exploring Blockchain space
+⛓️ Working with blockchains
 
 Passionate about crafting seamless web experiences with Next.js and styling magic using Tailwind CSS. From pixel-perfect frontends to scalable backends, I turn ideas into reality. Let's build something awesome together! 🌐💻✨
 
