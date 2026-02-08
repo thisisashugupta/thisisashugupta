@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ashu Gupta
+# Hi there 👋
 
 ### 🚀 Backend Developer | Web3 Enthusiast | Open Source Contributor
 
