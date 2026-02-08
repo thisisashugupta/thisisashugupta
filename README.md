@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🚀 Backend Developer | Web3 Enthusiast | Open Source Contributor
+### 🚀 Backend Web3 Developer
 
 I build scalable backend systems, high-performance APIs, and Web3-integrated platforms.
 Strong focus on architecture, performance, and user experience.
